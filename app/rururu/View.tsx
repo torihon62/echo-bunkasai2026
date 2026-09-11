@@ -18,7 +18,7 @@ import GuestPerformers from "@/components/rururu/GuestPerformers";
 
 export default function View() {
   const aboutMessages = [
-    "楽しいことの達人「チーム・るるる」です！",
+    "準備中",
     "",
   ];
 
