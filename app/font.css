@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic&display=swap");
+
+div {
+  font-family: "Zen Maru Gothic", sans-serif;
+}
+
+p {
+  font-family: "Zen Maru Gothic", sans-serif !important;
+}
+
+a {
+  font-family: "Zen Maru Gothic", sans-serif;
+}
+
+h2 {
+  font-family: "Zen Maru Gothic", sans-serif !important;
+}
+
+h3 {
+  font-family: "Zen Maru Gothic", sans-serif !important;
+}
+
+button {
+  font-family: "Zen Maru Gothic", sans-serif !important;
+}
+
+span {
+  font-family: "Zen Maru Gothic", sans-serif;
+}
