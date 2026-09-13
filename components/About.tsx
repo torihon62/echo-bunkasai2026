@@ -13,7 +13,7 @@ export default function About(props: Props) {
         flexDirection: "column",
         alignItems: props.isLeft
           ? "flex-start"
-          : { xs: "flex-start", md: "center" },
+          : "center",
       }}
     >
       {props.messages.map((message, i) =>

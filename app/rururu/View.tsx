@@ -20,12 +20,9 @@ export default function View() {
     "",
     "楽しいことの達人「チーム・るるる」です！",
     "お芝居、歌、ヒーローショー！？",
-    "一緒におはなしを楽しみましょう♪",
-    "",
-    "・♡スイート回：公演終了後は工作コーナーもあるよ！",
-    "・♠️ビター回：お話や歌を甘さひかえめにアレンジしてお届け！",
-    "",
     "ハロウィンの仮装も大歓迎♪",
+    "",
+    "一緒におはなしを楽しみましょう♪",
     "お子さまから大人まで、みんな集まれ〜！",
   ];
 
@@ -55,6 +52,9 @@ export default function View() {
     {
       subHeader: "日時",
       contents: [
+        "・♡スイート回：公演終了後は工作コーナーもあるよ！",
+        "・♠️ビター回：お話や歌を甘さひかえめにアレンジしてお届け！",
+        "　",
         "2026年10月10日 (土)",
         "① 14時～14時45分　（スイート♡）",
         "② 17時～18時　（ビター♠️）",
@@ -119,7 +119,7 @@ export default function View() {
       <FirstView
         onClick={scroll}
         title="チーム・るるるのおはなしであそぼ！"
-        // fileName="FirstView_party.png"
+        fileName="FirstView_party.png"
         background="#f2ebe6"
         color="black"
       />
