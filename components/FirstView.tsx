@@ -30,7 +30,7 @@ export default function FirstView(props: Props) {
             },
             backgroundSize: { xs: "contain", sm: "contain" },
             backgroundPosition: { xs: "top", sm: "top" },
-            height: { xs: "50vh", sm: "75vh" },
+            height: { xs: "35vh", sm: "75vh" },
             display: { xs: "flex", sm: "flex" },
             justifyContent: { xs: "center", sm: "center" },
             alignItems: { xs: "center", sm: "center" },
